@@ -1,5 +1,5 @@
 import React from 'react';
-
+import vault from '../../assets/content/vault.gif'
 function Gallery(props) {
   
   return (
@@ -11,8 +11,8 @@ function Gallery(props) {
       <h2 className='kozmazuul'>
         Køzmazuul
       </h2>
-      
-      HTM, CSS & JavaScript
+      <p className='subtitle'> HTM, CSS & JavaScript</p>
+          <img alt="Kozmazuul" src={Kozmazuul} />
       
       <a href="https://austindavis95.github.io/Kozmazuul/"> view demo
 
