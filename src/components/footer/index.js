@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactLogo from '../../assets/images/logo192.png';
 import Spotify from '../../assets/images/spotify-logo.svg';
 import Github from '../../assets/images/github-icon-transparent.png';
 
@@ -11,6 +12,7 @@ function Footer(props) {
   return (
     <footer id="contact" className="flex-row px-1">
         <div>
+          <h2>Built with React<img className='social-icons' alt='ReactLogo' src={ReactLogo}></img> </h2>
         <a href="mailto:adavis102595@yahoo.com" >  Email</a>
                    
                     <a href="tel:980.241.4194">Cell</a>
