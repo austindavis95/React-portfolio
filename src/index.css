@@ -93,10 +93,27 @@ a:hover {
 
 header {
   background: var(--dark);
+  justify-content: space-between;
 }
 
 header a {
   color: var(--light);
+}
+
+footer {
+  background-color: darkcyan;
+ padding: 30px;
+ text-align: center;
+}
+
+footer a {
+  color:white;
+  padding: 0 10px;
+
+}
+
+footer div {
+  margin:auto;
 }
 
 button {

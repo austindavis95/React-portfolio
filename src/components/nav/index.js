@@ -3,7 +3,7 @@ import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function Nav(props) {
   const {
-    contactSelected,
+    
     currentCategory,
     setContactSelected,
   } = props;
@@ -26,18 +26,27 @@ function Nav(props) {
               About me
             </a>
           </li>
-          <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-            <span onClick={() => setContactSelected(true)}>Contact</span>
-          </li>
 
-          <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-            <span onClick={() => setContactSelected(true)}>Portfolio</span>
+          
+          <li className="mx-2">
+            <a data-testid="contact" href="#contact" onClick={() => setContactSelected(false)}>
+              Contact Me
+            </a>
           </li>
           
-          <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-            <span onClick={() => setContactSelected(true)}>Resume</span>
-          </li>
 
+        
+          <li className="mx-2">
+            <a data-testid="portfolio" href="#portfolio" onClick={() => setContactSelected(false)}>
+              Portfolio
+            </a>
+          </li>
+          
+          <li className="mx-2">
+            <a data-testid="resume" href="#resume" onClick={() => setContactSelected(false)}>
+              Resume
+            </a>
+          </li>
         </ul>
       </nav>
     </header>
