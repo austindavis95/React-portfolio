@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Modal from '../Modal';
 import photo from '../../assets/small/commercial/0.jpg';
 
 
