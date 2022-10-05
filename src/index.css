@@ -9,7 +9,7 @@ main {
   --secondary: #F3A847;
   --tertiary: #B12704;
   --light: #fafafa;
-  --dark: #000000;
+  --dark: #020A1E;
   --darker: #111111;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -101,7 +101,7 @@ header a {
 }
 
 footer {
-  background-color: darkcyan;
+  background-color: #020A1E;
  padding: 30px;
  text-align: center;
 }
