@@ -8,7 +8,7 @@ function Gallery(props) {
       Portfolio
     </h1>
     <section>
-      <h2 className='portfolio-title'>
+      <h2 className='kozmazuul'>
         Køzmazuul
       </h2>
       
@@ -23,7 +23,7 @@ function Gallery(props) {
       </a>
     </section>
     <section>
-      <h2 className='portfolio-title'>
+      <h2 className='bring-the-tech'>
         BringTheTech
       </h2>
       Node, Express, Handlebars, HTML, CSS, JavaScript, MySQL & Sequelize ORM
@@ -36,15 +36,15 @@ function Gallery(props) {
       </a>
     </section>
     <section>
-      <h2 className='portfolio-title'>
+      <h2 className='catastrophic'>
         CATastrophic
       </h2>
       HTML, CSS, Bulma Framework, JavaScript, CATAAS API & Cat-Fact API
-      <a href="https://"> view demo
+      <a href="https://hollenbebe08.github.io/project-catastrophic/"> view demo
 
       </a>
 
-      <a href="https://"> view source code
+      <a href="https://github.com/hollenbebe08/project-catastrophic"> view source code
 
       </a>
     </section>

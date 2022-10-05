@@ -9,7 +9,7 @@ function About() {
       <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
       <div className="my-2">
         <p>
-          My name is Austin Davis. I am a twenty-six year old student studying computer science. Although I am new to computer science. I am hardworking, punctual, and always give all my effort to the task at hand. I do my very best to be a valued member of the team. Im very excited to continue my path in computer science and cant wait to start my carrer as a Front-end Developer! A little about me. I currently live in Lincolnton North Carolina. Outside of school my hobbies include music and painting. Music is my main passion. I currently play in two bands as a vocalist and guitarist. My primary band just wrapped up recording our first E.P. which we are excited to realase soon. Im very excited to see how my skills in web developement and music will intermingle.
+        Full stack web developer with experience with HTMl, CSS, JavaScript, Mongoose, Node.js, and MySQL. I have just recently graduated from UNCCs full stack web development coding bootcamp. In which I learned new languages weekly and completed assignments that corresponded to the material I was currently learning. As well as working as a team with my classmates to complete three individual full stack applications. That can be found on my Github as well as my portfolio.  Though I am new to web development, I am hardworking, work and communicate well with others, and I learn quickly. Thank you for your interest in my portfolio!
         </p>
       </div>
     </section>
