@@ -1,5 +1,7 @@
 import React from 'react';
-import vault from '../../assets/content/vault.gif'
+import Kozmazuul from '../../assets/images/Kozmazuul-Demo.gif';
+import BringTheTech from '../../assets/images/BringTheTech-demo.gif';
+import CATastrophic from '../../assets/images/catp.jpeg';
 function Gallery(props) {
   
   return (
@@ -26,6 +28,8 @@ function Gallery(props) {
       <h2 className='bring-the-tech'>
         BringTheTech
       </h2>
+      <p className='subtitle'> Node, Express, Handlebars, HTML, CSS, JavaScript, MySQL & Sequelize ORM</p>
+          <img alt="BringTheTech" src={BringTheTech} />
       Node, Express, Handlebars, HTML, CSS, JavaScript, MySQL & Sequelize ORM
       <a href="https://limitless-dusk-20283.herokuapp.com"> view demo
 
@@ -39,7 +43,8 @@ function Gallery(props) {
       <h2 className='catastrophic'>
         CATastrophic
       </h2>
-      HTML, CSS, Bulma Framework, JavaScript, CATAAS API & Cat-Fact API
+      <p className='subtitle'> HTML, CSS, Bulma Framework, JavaScript, CATAAS API & Cat-Fact API</p>
+          <img alt="CATastrophic" src={CATastrophic} />
       <a href="https://hollenbebe08.github.io/project-catastrophic/"> view demo
 
       </a>
