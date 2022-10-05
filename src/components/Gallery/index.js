@@ -9,20 +9,37 @@ function Gallery(props) {
     </h1>
     <section>
       <h2 className='portfolio-title'>
-        sample title
+        Køzmazuul
       </h2>
-      <a href="https://"> view demo
+      
+      HTM, CSS & JavaScript
+      
+      <a href="https://austindavis95.github.io/Kozmazuul/"> view demo
 
       </a>
 
-      <a href="https://"> view source code
+      <a href="https://github.com/austindavis95/Kozmazuul"> view source code
 
       </a>
     </section>
     <section>
       <h2 className='portfolio-title'>
-        sample title
+        BringTheTech
       </h2>
+      Node, Express, Handlebars, HTML, CSS, JavaScript, MySQL & Sequelize ORM
+      <a href="https://limitless-dusk-20283.herokuapp.com"> view demo
+
+      </a>
+
+      <a href="https://github.com/Mckinleyfaustin/BringTheTech"> view source code
+
+      </a>
+    </section>
+    <section>
+      <h2 className='portfolio-title'>
+        CATastrophic
+      </h2>
+      HTML, CSS, Bulma Framework, JavaScript, CATAAS API & Cat-Fact API
       <a href="https://"> view demo
 
       </a>

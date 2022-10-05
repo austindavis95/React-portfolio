@@ -138,7 +138,11 @@ button[disabled] {
 }
 
 img {
-  max-width: 100%;
+  max-width: 40%;
+}
+
+.social-icons{
+  max-width: 40%;
 }
 
 span[role="img"] {
