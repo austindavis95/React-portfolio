@@ -22,6 +22,23 @@ describe('Modal component', () => {
     />);
   })
 
+  it('matches snapshot DOM node structure', () => {
+    const { asFragment } = render(<Modal
+      onClose={mockToggleModal}
+      currentPhoto={currentPhoto}
+    />);
+
+    expect(asFragment()).toMatchSnapshot();
+  });
+})
+
+describe('Click Event', () => {
+  it('calls onClose handler', () => {
+    const { getByText } = render(<Modal
+      onClose={mockToggleModal}
+      currentPhoto={currentPhoto}
+    />);
+    fireEvent.click(getByText('Close this modal'))
 
     expect(mockToggleModal).toHaveBeenCalledTimes(1);
   });
