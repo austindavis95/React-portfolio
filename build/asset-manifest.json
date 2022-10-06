@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.8832ea63.css",
-    "main.js": "/static/js/main.22a65ac3.js",
-    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
-    "static/media/cover-image.jpg": "/static/media/cover-image.533ae8f6f0bf6c415f11.jpg",
-    "index.html": "/index.html",
-    "main.8832ea63.css.map": "/static/css/main.8832ea63.css.map",
-    "main.22a65ac3.js.map": "/static/js/main.22a65ac3.js.map",
-    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/Reactiportfolio/static/css/main.ac44c9f1.css",
+    "main.js": "/Reactiportfolio/static/js/main.ccb3c8bb.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Reactiportfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Kozmazuul-Demo.gif": "/Reactiportfolio/static/media/Kozmazuul-Demo.7cbd2ad35dab83792855.gif",
+    "static/media/BringTheTech-demo.gif": "/Reactiportfolio/static/media/BringTheTech-demo.e13dfc5a1c56024e1e43.gif",
+    "static/media/catp.jpeg": "/Reactiportfolio/static/media/catp.9a7cc2cd1f5ac7de453b.jpeg",
+    "static/media/cover-image.jpg": "/Reactiportfolio/static/media/cover-image.9a9c1262e8d37e2c7e6d.jpg",
+    "static/media/github-icon-transparent.png": "/Reactiportfolio/static/media/github-icon-transparent.bc45ee99ee31457ba80a.png",
+    "static/media/spotify-logo.svg": "/Reactiportfolio/static/media/spotify-logo.7f741122f2cab7efe546a7839a913e2e.svg",
+    "static/media/instagram-logo.svg": "/Reactiportfolio/static/media/instagram-logo.178dba441287320186a93fd457f8a95e.svg",
+    "index.html": "/Reactiportfolio/index.html",
+    "main.ac44c9f1.css.map": "/Reactiportfolio/static/css/main.ac44c9f1.css.map",
+    "main.ccb3c8bb.js.map": "/Reactiportfolio/static/js/main.ccb3c8bb.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Reactiportfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8832ea63.css",
-    "static/js/main.22a65ac3.js"
+    "static/css/main.ac44c9f1.css",
+    "static/js/main.ccb3c8bb.js"
   ]
 }
