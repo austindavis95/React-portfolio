@@ -143,6 +143,7 @@ button[disabled] {
 
 img {
   max-width: 40%;
+  display:block
 }
 
 .white-icons{
@@ -210,6 +211,10 @@ textarea {
   margin-right: auto;
 }
 
+.text-underline
+{
+  text-decoration: underline;
+}
 .flex-row {
   display: flex;
   flex-wrap: wrap;
@@ -304,6 +309,10 @@ textarea {
 	font-size: 18px;
 	font-weight: 600;
 	margin-bottom: 25px;
+}
+
+#portfolio section{
+margin-top: 30px;
 }
 
 button {

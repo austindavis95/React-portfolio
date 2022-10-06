@@ -6,7 +6,7 @@ function Gallery(props) {
   
   return (
     <div id="portfolio">
-    <h1>
+    <h1 className='text-underline'>
       Portfolio
     </h1>
     <section>
@@ -30,7 +30,7 @@ function Gallery(props) {
       </h2>
       <p className='subtitle'> Node, Express, Handlebars, HTML, CSS, JavaScript, MySQL & Sequelize ORM</p>
           <img alt="BringTheTech" src={BringTheTech} />
-      Node, Express, Handlebars, HTML, CSS, JavaScript, MySQL & Sequelize ORM
+      
       <a href="https://limitless-dusk-20283.herokuapp.com"> view demo
 
       </a>
