@@ -1,3 +1,19 @@
+# React Portfolio
+
+## Name and Contact Information  
+
+Austin Hunter Davis - adavis102595@yahoo.com
+github - https://github.com/austindavis95
+deplored url- http://austindavis95.github.io/React-portfolio
+
+
+
+## Introduction
+ 
+This is my updated portfolio built with React! 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
