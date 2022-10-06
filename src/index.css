@@ -22,6 +22,10 @@ main {
   box-sizing: border-box;
 }
 
+html{
+  scroll-behavior: smooth;
+}
+
 html,
 body {
   min-height: 100%;
@@ -141,8 +145,21 @@ img {
   max-width: 40%;
 }
 
+.white-icons{
+filter:invert(1)
+}
+
 .social-icons{
-  max-width: 5%;
+  height: 2rem;
+  width: auto;
+  
+}
+
+.react-logo{
+  height: 3rem;
+  width: auto;
+  
+
 }
 
 span[role="img"] {
