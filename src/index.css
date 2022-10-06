@@ -120,6 +120,13 @@ footer div {
   margin:auto;
 }
 
+footer img{
+  display: inline;
+}
+footer h2{
+  margin-bottom: 20px;
+}
+
 button {
   font-size: 1rem;
   text-decoration: none;
