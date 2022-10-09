@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { capitalizeFirstLetter } from '../../utils/helpers';
 
+
 function Nav(props) {
   const {
     
@@ -43,6 +44,7 @@ function Nav(props) {
           </li>
           
           <li className="mx-2">
+          <a href="https://docs.google.com/document/d/1U7qVsWVwF4Z0S1K0xie9Jdhnupf-XNPezYCLKh90JfE/edit?usp=sharing" target={'_blank'} rel="noreferrer"></a>
             <a data-testid="resume" href="#resume" onClick={() => setContactSelected(false)}>
               Resume
             </a>
